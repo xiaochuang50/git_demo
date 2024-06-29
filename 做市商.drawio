@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T15:12:40.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="_UCxIauFuaDWJZDsOu00" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-29T15:17:25.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="fm-YRgIyQ2dn_EIn38hN" version="24.6.4" type="github">
   <diagram name="第 1 页" id="oIfI_ZmsdfTNbqOQXAux">
     <mxGraphModel dx="1155" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
       <root>
@@ -54,10 +54,13 @@
           <mxGeometry x="384" y="268" width="88" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HJhNjEGVbIpV9bui5ugu-12" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0080;fillColor=#000000;sketch=1;curveFitting=1;jiggle=2;align=left;" vertex="1" parent="1">
-          <mxGeometry x="500" y="250" width="130" height="170" as="geometry" />
+          <mxGeometry x="492" y="269" width="120" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="HJhNjEGVbIpV9bui5ugu-13" value="&lt;ul style=&quot;text-align: left; line-height: 130%; font-size: 9px;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#ffffff&quot;&gt;库存管理：&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;- 原始库存：持仓2000股&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 255, 255);&quot;&gt;- 卖出500股：持仓1500股&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 255, 255);&quot;&gt;- 买入1000股：持仓2500股&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="468" y="260" width="158" height="68" as="geometry" />
+        <mxCell id="HJhNjEGVbIpV9bui5ugu-13" value="&lt;ul style=&quot;text-align: left; line-height: 150%; font-size: 9px;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#ffffff&quot;&gt;库存管理：&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;- 原始库存：持仓2000股&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 255, 255);&quot;&gt;- 卖出500股：持仓1500股&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 255, 255);&quot;&gt;- 买入1000股：持仓2500股&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="456" y="281" width="158" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="HJhNjEGVbIpV9bui5ugu-14" value="&lt;font style=&quot;font-size: 11px;&quot; color=&quot;#ffffff&quot;&gt;收益与风险分析：&lt;/font&gt;&lt;div style=&quot;line-height: 160%; font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot; color=&quot;#ffffff&quot;&gt;- 价差收益500元&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 160%; font-size: 9px;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot; color=&quot;#ffffff&quot;&gt;- 持仓增加500股&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="497" y="369" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
